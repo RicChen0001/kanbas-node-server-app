@@ -1,0 +1,7 @@
+node_modules
+.env.local
+
+NODE_ENV=production
+NETLIFY_URL=https://ric-a5-kanbas-react-app.netlify.app/
+NODE_SERVER_DOMAIN=kanbas-node-server-app-l7xz.onrender.com
+SESSION_SECRET=super secret session phrase
